@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar 23 12:48:52 2023
-
 @author: khd2
+
+This code to detect the outliers from a time series data
 """
 import pandas as pd
 import numpy as np
